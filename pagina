@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Tienda de abarrotes</title>
+    <style>
+        
+        body {
+            margin: 0;
+            padding: 0;
+            background-image: url('ya.jpg');
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            color: #4B0082;
+            font-family: Arial,
+sans-serif;
+        }
+h1{
+font-size: 4em;
+top: 20px;
+width: 100%;
+text-align: center;
+margin: 0;
+}
+p {
+font-size: 2em;
+text-align: center;
+}
+    </style>
+</head>
+<body>
+
+    <div>
+        <h1>Tienda de Abarrotes</h1>
+        <p>
+<br>
+          PRODUCTOS QUE SE VENDEN:
+<br> <br> <br>
+Leche Vaca Blanca Entera (1 litro) - $20 <br> <br><img src='vaca.jpg' width='300' height='300'>
+ <br> <br>
+
+Harina de Trigo Tres Soles (1 kg) - $17 <br> <br> <img src='harina.jpg' width='300' height='300'> 
+<br><br>
+
+Lentejas Buena Tierra (500 g) - $19 <br> <br> <img src='lenteja.jpg' width='300' height='300'>
+<br><br>
+
+Refresco Zing sabor Naranja (3.3 litros) - $15 <br> <br> <img src='refresco.jpg' width='300' height='300'>
+<br><br>
+
+Arroz Súper Extra Campo Santo (10 piezas) - $180 <br> <br> <img src='arroz.jpg' width='300' height='300'>
+<br><br>
+
+Mayonesa con Limón Mayorela (750 g) - $49 <br> <br> <img src='mayonesa.jpg' width='300' height='300'>
+<br><br>
+
+Media Crema Vegetal Lacti Bu (250 ml) - $11 <br> <br> <img src='lacti.jpg' width='300' height='300'>
+<br><br>
+
+Ensalada de Verduras Nuestro Campo (430 g) - $15 <br> <br> <img src='ensalada.jpg' width='300' height='300'>
+<br><br>
+
+Chile Chipotle Nuestro Campo (215 g) - $16 <br> <br> <img src='chile.jpg' width='300' height='300'>
+<br><br>
+
+Polvo para Atole Buenatole sabor Fresa (1 porción) - $5 <br> <br> <img src='atole.jpg' width='300' height='300'>
+<br><br>
+
+Producto Lácteo Lacti Bu (caja con 12 piezas) - $192 <br> <br> <img src='box.jpg' width='300' height='300'>
+<br><br>
+
+Jabón Palmolive (barra 150 g) - $10 <br> <br> <img src='javon.jpg' width='300' height='300'>
+<br><br>
+
+Refresco de Cola Zing (2 litros) - $13 <br> <br> <img src='coca.jpg' width='300' height='300'>
+<br><br>
+
+Aceite Vegetal Buenavita (900 ml) - $35 <br> <br> <img src='aceite.jpg' width='300' height='300'>
+<br><br>
+
+Galletas María Canasta (170 g) - $9 <br> <br> <img src='galleta.jpg' width='300' height='300'>
+<br><br>
+
+Pasta La Moderna (200 g) - $7 <br> <br> <img src='pasta.jpg' width='300' height='300'>
+<br><br>
+
+Detergente en Polvo Blanca Nieves (500 g) - $15 <br> <br> <img src='detergente.jpg' width='300' height='300'>
+<br><br>
+
+Papel Higiénico Pronto (4 rollos) - $18 <br> <br> <img src='papel.jpg' width='300' height='300'>
+<br><br>
+
+Sardinas en Salsa de Tomate Nuestro Campo (425 g) - $20 <br> <br> <img src='sardina.jpg' width='300' height='300'>
+<br><br>
+
+Frijoles Refritos Campo Santo (560 g) - $16 <br> <br> <img src='frijol.jpg' width='300' height='300'>
+<br><br>
+
+Sal de Mesa La Fina (1 kg) - $12 <br> <br> <img src='sal.jpg' width='300' height='300'>
+<br><br>
+
+Cereal de Maíz Corn Flakes Buenavita (500 g) - $25 <br> <br> <img src='cereal.jpg' width='300' height='300'>
+<br><br>
+
+Puré de Tomate Campo Santo (210 g) - $9 <br> <br> <img src='tomate.jpg' width='300' height='300'>
+<br><br>
+
+Desodorante Rexona Roll On (50 ml) - $35 <br> <br> <img src='rexona.jpg' width='300' height='300'>
+<br><br>
+
+
+
+</p>
+    </div>
+
+</body>
+</html>
